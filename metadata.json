@@ -1,0 +1,6 @@
+{
+  "name": "Varun - AI Fitness & Calorie Tracker",
+  "description": "Coach Varun client-friendly fitness portal with daily workout & diet report submission with direct WhatsApp formatting to +91 7499 177 223, weekly progress check-ins, science-backed fitness advice engine, and password-protected host portal.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
